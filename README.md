@@ -113,3 +113,7 @@ Matplotlib / Seaborn
 Aelia Shah
 BSCS (Data Science) – NED University
 
+
+APP IS LIVE ON
+"https://gregory-diatomaceous-widely.ngrok-free.dev"
+
