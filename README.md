@@ -1,0 +1,2 @@
+# LATE-ON-TIME-DELIVERY-PREDICTION_DASHBAORD-CHAIN_SUPPLY_ANALYTICS.
+This project predicts telecom customer churn using machine learning. After data preprocessing and EDA, models like Logistic Regression, XGBoost, and Neural Networks were trained and evaluated using accuracy, precision, recall, F1-score, and confusion matrices to identify customers likely to leave and support retention strategies.
